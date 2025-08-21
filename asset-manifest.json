@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curd_form/static/css/main.8d1e538a.css",
+    "main.js": "/curd_form/static/js/main.29cf4690.js",
+    "index.html": "/curd_form/index.html",
+    "main.8d1e538a.css.map": "/curd_form/static/css/main.8d1e538a.css.map",
+    "main.29cf4690.js.map": "/curd_form/static/js/main.29cf4690.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d1e538a.css",
+    "static/js/main.29cf4690.js"
+  ]
+}
